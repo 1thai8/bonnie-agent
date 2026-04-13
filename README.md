@@ -4,7 +4,7 @@ AI receptionist workflow for aesthetic clinics. Handles booking and cancellation
 
 ## How to use
 
-1. Import `Bonnie_FINAL.json` into your n8n instance
+1. Import `Bonnie_agent.json` into your n8n instance
 2. Configure credentials: Google Calendar, Google Sheets, Gmail, Twilio, Anthropic
 3. Start n8n with Europe/Madrid timezone:
 
